@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/rootbysahil/Java_LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/rootbysahil/Java_LeetCode/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
