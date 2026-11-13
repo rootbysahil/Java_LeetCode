@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/rootbysahil/Java_LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rootbysahil/Java_LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/rootbysahil/Java_LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rootbysahil/Java_LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rootbysahil/Java_LeetCode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rootbysahil/Java_LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
