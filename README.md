@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rootbysahil/Java_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/rootbysahil/Java_LeetCode/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/rootbysahil/Java_LeetCode/tree/master/0412-fizz-buzz) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rootbysahil/Java_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/rootbysahil/Java_LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rootbysahil/Java_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
