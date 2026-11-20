@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rootbysahil/Java_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/rootbysahil/Java_LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/rootbysahil/Java_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rootbysahil/Java_LeetCode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rootbysahil/Java_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rootbysahil/Java_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
