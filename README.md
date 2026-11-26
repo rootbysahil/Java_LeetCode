@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rootbysahil/Java_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/rootbysahil/Java_LeetCode/tree/master/0016-3sum-closest) |
+| [0073-set-matrix-zeroes](https://github.com/rootbysahil/Java_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rootbysahil/Java_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rootbysahil/Java_LeetCode/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rootbysahil/Java_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/rootbysahil/Java_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/rootbysahil/Java_LeetCode/tree/master/0217-contains-duplicate) |
 | [2349-design-a-number-container-system](https://github.com/rootbysahil/Java_LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Linked List
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2349-design-a-number-container-system](https://github.com/rootbysahil/Java_LeetCode/tree/master/2349-design-a-number-container-system) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rootbysahil/Java_LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
