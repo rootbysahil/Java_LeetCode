@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rootbysahil/Java_LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/rootbysahil/Java_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/rootbysahil/Java_LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rootbysahil/Java_LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rootbysahil/Java_LeetCode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rootbysahil/Java_LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Sliding Window
 |  |
